@@ -1,0 +1,29 @@
+#ifndef __A_H_
+#define __A_H_
+void loginmainPage();
+void loginPage1();
+void loginPage2();
+void loginPage3();
+void loginPage();
+void joinMemberPage();
+void maximcom();
+void mainPage();
+void mainPage1();
+void mainPage2();
+int getch(void);
+void move_cur(int x, int y);
+void mypicture1();
+void mypicture2();
+void loginpicture();
+void joinpicture();
+void mypagepicture();
+void mymainPage();
+void myPage1();
+void myPage2();
+void mypagepicture1();
+void mypagepicture2();
+int mainchoice();
+int mypagechoice();
+int mypagemenuchoicce();
+void draw();
+#endif
