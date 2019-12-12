@@ -1,3 +1,6 @@
+
+/*정재훈 Client UI Code*/
+/*일부 수정*/
 #include "file.h"
 #include <signal.h>
 #include <stdio.h>
